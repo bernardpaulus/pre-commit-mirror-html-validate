@@ -6,5 +6,5 @@
     'types_or': [html, javascript, jinja]
     args: []
     require_serial: false
-    additional_dependencies: ["html-validate@0.24.2"]
+    additional_dependencies: ["html-validate@0.25.0"]
     minimum_pre_commit_version: '2.9.2'
